@@ -1,0 +1,2 @@
+# Floyd-SteinbergDitheringImageProcesingWPF
+ Image processing 

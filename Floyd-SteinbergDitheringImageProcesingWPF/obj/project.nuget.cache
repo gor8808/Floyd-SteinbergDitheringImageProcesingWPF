@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jx97xdYI53LClvOvMjFUfOJyNequ3zklg1YIQZ03Gy/N3nGhpQxJXTXx4yte/ntaDjGjvh5EfG+vtaFvuaXZSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\Desktop\\Gor\\C#\\MIC\\Algorithms\\Floyd-SteinbergDitheringImageProcesingWPF\\Floyd-SteinbergDitheringImageProcesingWPF\\Floyd-SteinbergDitheringImageProcesingWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\writeablebitmapex\\1.6.5\\writeablebitmapex.1.6.5.nupkg.sha512"
+  ],
+  "logs": []
+}
